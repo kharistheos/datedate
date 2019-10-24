@@ -1,20 +1,32 @@
 
 
 {
-  
-    
+  "start": [
+    {
       "2019-01-23": {
-        
         "videomades": 60,
         "subscriptions": 60
       }
     },
     {
       "2019-01-24": {
-     
+        "videomades": 70,
+        "subscriptions": 50
+      }
+    }
+  ],
+  "end": [
+    {
+      "2019-01-23": {
         "videomades": 60,
         "subscriptions": 60
       }
+    },
+    {
+      "2019-01-24": {
+        "videomades": 70,
+        "subscriptions": 50
+      }
     }
- 
+  ]
  }
