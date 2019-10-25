@@ -1,32 +1,33 @@
-
-
 {
-  "start": {
-    
-      "2019-01-23": {
-        "videomades": 60,
-        "subscriptions": 60
-      }
-    },
-    
-      "2019-01-24": {
-        "videomades": 70,
-        "subscriptions": 50
-      
-    }
-},
-  "end": 
-    {
-      "2019-01-23": {
-        "videomades": 60,
-        "subscriptions": 60
-      }
-    },
-    
-      "2019-01-24": {
-        "videomades": 70,
-        "subscriptions": 50
-      }
-    
+  "thisWeek": [
+    "Sun. Sep 29",
+    "Mon. Sep 30",
+    "Tue. Oct 1",
+    "Wed Oct 2",
+    "Thu. Oct 3",
+    "Fri. Oct 4",
+    "Sat. Oct 5",
+    "Sun. Oct 6"
+  ],
+  "videomades": [
+    636.39,
+    459.42,
+    387.47,
+    283.81,
+    514.33,
+    446.49,
+    262.52,
+    224.4
+  ],
+  "subscriptions": [
+    610,
+    580,
+    530,
+    490,
+    670,
+    510,
+    480,
+    600
+  ]
+
 }
- 
